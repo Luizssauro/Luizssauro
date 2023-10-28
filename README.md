@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/ccbc919a-2aa4-4827-a9c1-596ed9406fe1.svg)](https://wakatime.com/@ccbc919a-2aa4-4827-a9c1-596ed9406fe1)
 <!--
 **Luizssauro/Luizssauro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
