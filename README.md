@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/ccbc919a-2aa4-4827-a9c1-596ed9406fe1.svg)](https://wakatime.com/@ccbc919a-2aa4-4827-a9c1-596ed9406fe1)
 [![github](https://img.shields.io/github/followers/Luizssauro?logo=github&style=plastic)](https://github.com/Luizssauro?tab=followers)
 
-- 🔭 I’m currently working on Local App
+- 🔭 I’m currently working at Finansystech
 - 👯 I’m looking to collaborate on more oss projects
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luizssauro/)
 <!--
